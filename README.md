@@ -92,7 +92,7 @@ Clone this repository to your desired folder:
 
 - Clone the project using by running the following command:
 
-`git clone https://github.com/whiteWolfx99/Math-Magicians.git`
+`git clone https://github.com/whiteWolfx99/Math_magicians.git`
 
 ### Install
 
