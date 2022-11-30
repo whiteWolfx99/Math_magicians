@@ -38,6 +38,8 @@
   padding: 25px;
   border: 1px solid #ccc;
   cursor: pointer;
+  font-size: 1.5rem;
+  color: #000;
 }
 
 .orange_calc {
