@@ -13,7 +13,7 @@ export default function App() {
         <h1>Math Magicians</h1>
         <ul className="navbar">
           <li>
-            <Link className="links border" to="/">Home</Link>
+            <Link className="links border" to="/Math_magicians">Home</Link>
           </li>
           <li>
             <Link className="links border" to="calculator">Calculator</Link>
@@ -24,7 +24,7 @@ export default function App() {
         </ul>
       </nav>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/Math_magicians" element={<Home />} />
         <Route path="calculator" element={<Calculator />} />
         <Route path="quote" element={<Quote />} />
       </Routes>
