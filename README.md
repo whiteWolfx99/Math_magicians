@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math-Magicians <a name="about-project"></a>
+# 📖 Math magicians: full website <a name="about-project"></a>
 
-**Math-Magicians** is a Single Page Application (SPA) that allows users to make simple calculations and read a random math-related quote.
+**Math magicians: full website** In this project, you will create a full website for the Math magicians app, consisting of several pages and using the components you already created.
 
 ## 🛠 Built With <a name="built-with"></a>
 
