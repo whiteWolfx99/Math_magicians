@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math magicians: full website <a name="about-project"></a>
+# 📖 # Math Magicians: tests <a name="about-project"></a>
 
-**Math magicians: full website** In this project, you will create a full website for the Math magicians app, consisting of several pages and using the components you already created.
+**# Math Magicians: tests** In this project, you will write unit tests for the Math Magicians app, using the *Jest* and *React Testing Library* libraries.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,7 +99,7 @@ Clone this repository to your desired folder:
 Install this project using the following command: 
 
 `npm install`.
-
+`npm i react-test-renderer`.
 ### Usage
 
 To run the project, execute the following commands:
@@ -126,6 +126,13 @@ You can deploy this project using:
 - GitHub: [@githubhandle](https://github.com/whiteWolfx99)
 - Twitter: [@twitterhandle](#)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hevar-hoshang-9a7a68237/)
+
+👤 **David Zambrano Corral**
+
+- GitHub: [@githubhandle](https://github.com/yayoamigo)
+- Twitter: [@twitterhandle](#)
+- LinkedIn: [LinkedIn](#)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
